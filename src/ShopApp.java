@@ -3,7 +3,7 @@
  * created : 26.01.2025
 **/
 
-public class Main {
+public class ShopApp {
     public static void main(String[] args) {
     }
 }
